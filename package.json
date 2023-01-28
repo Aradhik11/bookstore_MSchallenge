@@ -1,0 +1,23 @@
+{
+  "name": "ms-cha",
+  "version": "1.0.0",
+  "description": "Book Store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aradhik11/bookstore_MSchallenge.git"
+  },
+  "author": "Aradhik Camboy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aradhik11/bookstore_MSchallenge/issues"
+  },
+  "homepage": "https://github.com/Aradhik11/bookstore_MSchallenge#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^4.13.0"
+  }
+}
